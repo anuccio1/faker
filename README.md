@@ -1,4 +1,5 @@
 # Faker [![Build Status](https://travis-ci.org/stympy/faker.svg?branch=master)](https://travis-ci.org/stympy/faker) [![Gem Version](https://badge.fury.io/rb/faker.svg)](https://badge.fury.io/rb/faker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Ffaker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Ffaker?ref=badge_shield)
 
 
 This gem is a port of Perl's Data::Faker library that generates fake data.
@@ -147,3 +148,6 @@ Comments and feedback are welcome. Send an email to Benjamin Curtis via the [goo
 ## License
 
 This code is free to use under the terms of the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Ffaker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Ffaker?ref=badge_large)
